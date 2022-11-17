@@ -1,4 +1,5 @@
 # Activity Tracker
+All detailed info are included in the notebook ActivityML.ipynb 
 ## Introduction
 In the past decade, there has been increased interest on fitness and health. People started to look for ways to be able to track their progress and their status. A suitable and easy to access methods to measure these statuses started to emerge as a good and practical idea instead of always having to go to a specialist to do it.
 Hence, the fitness trackers was developed. They use different sensors to measure different variables and using an appropriate algorithm they detect the activity and give the corresponding feedback.
